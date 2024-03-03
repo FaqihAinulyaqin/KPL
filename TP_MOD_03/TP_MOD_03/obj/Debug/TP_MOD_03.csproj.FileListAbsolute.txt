@@ -1,0 +1,10 @@
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\bin\Debug\TP_MOD_03.exe.config
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\bin\Debug\TP_MOD_03.exe
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\bin\Debug\TP_MOD_03.pdb
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\obj\Debug\TP_MOD_03.csproj.AssemblyReference.cache
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\obj\Debug\TP_MOD_03.Form1.resources
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\obj\Debug\TP_MOD_03.Properties.Resources.resources
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\obj\Debug\TP_MOD_03.csproj.GenerateResource.cache
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\obj\Debug\TP_MOD_03.csproj.CoreCompileInputs.cache
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\obj\Debug\TP_MOD_03.exe
+C:\Users\mfaqi\Documents\Kuliah\C#\TP_MOD_03\TP_MOD_03\obj\Debug\TP_MOD_03.pdb
